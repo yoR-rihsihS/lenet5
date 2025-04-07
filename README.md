@@ -104,14 +104,14 @@ The papers implementation is very different from the modern implementations of C
 
 1. (Vanilla) Convolution Layers:
    <p style="float: left;">
-      <img src="saved/Normal_Loss_vs_Epoch.png.png" alt="Loss" width="400" />
-      <img src="saved/Normal_Accuracy_vs_Epoch.png.png" alt="Accuracy" width="400" />
+      <img src="saved/Normal_Loss_vs_Epoch.png.png" alt="Loss" width="300" />
+      <img src="saved/Normal_Accuracy_vs_Epoch.png.png" alt="Accuracy" width="300" />
    </p>
 
 2. Depth-wise Separable Convolution Layers:
-   I have also trained a second model, where I have replaced the Vanilla Convolution Layer is replaced by Depth-wise Separable Convolution Layer keeping all other things the same.
+   I have also trained a second model, where I have replaced the Vanilla Convolution Layer by Depth-wise Separable Convolution Layer keeping all other things the same.
    <p style="float: left;">
-      <img src="saved/Depth_Loss_vs_Epoch.png.png" alt="Loss" width="400" />
-      <img src="saved/Depth_Accuracy_vs_Epoch.png.png" alt="Accuracy" width="400" />
+      <img src="saved/Depth_Loss_vs_Epoch.png.png" alt="Loss" width="300" />
+      <img src="saved/Depth_Accuracy_vs_Epoch.png.png" alt="Accuracy" width="300" />
    </p>
   
